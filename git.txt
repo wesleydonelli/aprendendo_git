@@ -1,0 +1,6 @@
+Eu aprendi que o git é uma ferramenta para os desenvolvedores porderem contolar e editar os seus desenvolvimentos de softwares. no git criamos repositorios e temos um historico completo dos desenvolvimentos e versões, e toda a equipe pode alterar sem precisar acessar um servidor central. 
+principais  comandos:
+git config:  é utilizado para armazenar uma configuração por usuário.
+git clone: é utilizado para criar um clone de um repositório ja existente
+git add: para adicionar um arquivo novo
+git tag: cria uma tag para indicar mudanças ou algo importante no projeto. 
